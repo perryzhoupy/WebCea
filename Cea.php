@@ -36,6 +36,6 @@ echo $HexTable[abs( ord($src[$i]) + ord($src[$i + 1]) ) % 16];
 echo $HexTable[abs( ord($src[$i]) - ord($src[$i + 1]) ) % 16];	
 }
 }
-echo "<br /> <a href=\"index.html\">返回</a>";
+echo "<br /> <a href=\"index.html\">Return</a>";
 ?>
 
