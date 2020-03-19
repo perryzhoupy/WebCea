@@ -15,10 +15,14 @@ Remove index.html and Cea.php.
 Download the git repository and get the file "Cea.php".
 Submit a form (text input) with variable name "CeaStr".
 
+
+
 API with Cea.php:
 <form action="Cea.php" method="post">
 Source<input type="text" name="CeaSrc">
 <input type="submit" value="Submit">
+
+
 
 
 Thanks for using WebCea.
