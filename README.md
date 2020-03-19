@@ -20,7 +20,7 @@ Submit a form (text input) with variable name "CeaStr".
 API with Cea.php:
 
 `
-<form action="Cea.php" method="post">
+<<form action="Cea.php" method="post">>
 
 Source<input type="text" name="CeaSrc">
 
